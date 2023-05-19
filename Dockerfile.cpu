@@ -1,0 +1,5 @@
+# base image
+FROM hello-world
+
+# adding variable
+ENV GPU_ENABLED=0
